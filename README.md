@@ -9,6 +9,8 @@
 
 #### **MCU**
 * Arduino UNO/Leonardo Board
+* Arduino Sensor Shield
+
 #### **Sensors & Actuator**
 * Tempreature sensor
 * PH sensor
