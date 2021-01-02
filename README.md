@@ -1,6 +1,6 @@
 # **Aquarium-Automation-System**
 
-## **OverView**
+## **Overview**
 * Team Project that developed in Korea Polytechnic Uinveristy, CP-COP competition.
 * This System is consisted of Arduino and mobile application.
 
