@@ -3,8 +3,9 @@
 ## **OverView**
 * Team Project that developed in Korea Polytechnic Uinveristy, CP-COP competition.
 * This System is consisted of Arduino and mobile application.
-* **Pamphlet**
 
+## **Pamphlet**
+<img src="https://user-images.githubusercontent.com/48046183/103457687-af5aa400-4d44-11eb-8525-f4710b63e69f.jpg"  width="70%">
 
 ## **System Architecture**
 ### **H/W**
