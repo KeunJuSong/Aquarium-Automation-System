@@ -17,8 +17,9 @@
 #### **Sensors & Actuator**
 * Tempreature sensor
 * PH sensor
-* RTC(Real-Time Clock) module
-* Relay module
+* Photo resistor (Light sensor)
+* Real-Time Clock (RTC) module
+* 2ch-Relay module
 * LED
 * Auto-Feeder
 
@@ -37,5 +38,5 @@
 * App Inventor 2.0
 
 ## **Reference**
-* Aquarium Control System DIY
-  https://slowknight.tistory.com/6
+* [Aquarium Control System DIY blog](https://slowknight.tistory.com/6)
+* [Hackster.io](https://www.hackster.io/)
